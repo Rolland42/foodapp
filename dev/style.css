@@ -1,4 +1,6 @@
-Body
+Body{
+padding-bottom: 10px;
+}
 
 .logo{
      display: flex;
@@ -39,8 +41,8 @@ h1{
 }
 
 .hero-image{
-    width: 30px;
-    height: 40px;
+    width: 20px;
+    height: 30px;
 }
 
  .styled {
@@ -58,6 +60,7 @@ h1{
 .foodies{
     text-align: center;
     padding-bottom :3rem;
+    background-color:#f5fbfc;
 }  
 
 h2{
@@ -83,4 +86,58 @@ h2{
 .eat{
     width: 300px;
     height: 380px;
+}
+
+.articles{
+    text-align: left;
+    padding-bottom :3rem;
+}
+
+.art{
+    float: left;
+    color: #35b8be !important;
+    font-family: "inter";
+    font-size: 54px;
+    font-style: bold;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.h3{
+    padding-top: 3em;
+    color: #08090a;
+    font-family: "inter";
+    font-size: 28px;
+    font-style: bold;
+    text-align: left;
+
+}
+
+
+.title{
+    height: 40px;
+    
+    width: 150px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #35b8be;
+}
+.plate{
+    width: 380px;
+    height: 300px;
+    float: left;
+    clear:both;
+}
+
+.mobile{
+    width: 380px;
+    height: 300px;
+    float: center;
+    clear:both;
+}
+.home{
+    width: 380px;
+    height: 300px;
+    float: right;
+    clear:both;
 }
