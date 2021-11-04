@@ -75,12 +75,12 @@ h2{
     color:#08090a;
     font-size: 28px;
     font-style: light;
-    text-align: left;
-    margin-left: 25px;
+    text-align: center;
     margin-bottom: 20px;
+    margin-left: -5px;
 }
 
 .eat{
-    width: 30px;
-    height: 40px;
+    width: 300px;
+    height: 380px;
 }
